@@ -1,2 +1,2 @@
 # analogclock..
-This is the mini project suing HTML CSS JAVASCRIPT 
+This is the mini project using HTML CSS JAVASCRIPT 
